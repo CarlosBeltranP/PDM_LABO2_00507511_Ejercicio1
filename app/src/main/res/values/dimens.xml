@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_standar">8dp</dimen>
+    <dimen name="margen_sup">100dp</dimen>
+    <dimen name="margen_interior">30dp</dimen>
+    <dimen name="text_big">22sp</dimen>
+</resources>
