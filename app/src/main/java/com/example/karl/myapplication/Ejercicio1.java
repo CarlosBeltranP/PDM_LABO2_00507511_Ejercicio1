@@ -35,7 +35,7 @@ public class Ejercicio1 extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.activity_ejercicio1);
 
         username = findViewById(R.id.username);
         password = findViewById(R.id.password);
