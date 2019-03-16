@@ -41,6 +41,7 @@
         android:layout_gravity="center"
         android:textSize="@dimen/text_big"
         android:textStyle="bold"
-        android:layout_marginTop="@dimen/margen_interior"/>
+        android:layout_marginTop="@dimen/margen_interior"
+        android:textColor="@color/color_negrito"/>
 
 </LinearLayout>

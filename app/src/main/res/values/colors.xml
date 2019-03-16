@@ -2,4 +2,5 @@
 <resources>
     <color name="color_boton">#38610B</color>
     <color name="color_tex_boton">#FFFFFF</color>
+    <color name="color_negrito">#333</color>
 </resources>

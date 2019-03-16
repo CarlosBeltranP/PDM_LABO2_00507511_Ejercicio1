@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.example.karl.myapplication">
-  <application android:label="Demo App" android:theme="@style/AppTheme" >
+  <application android:label="Login Fake" android:theme="@style/AppTheme" >
     <activity android:name=".Ejercicio1">
       <intent-filter>
           <action android:name="android.intent.action.VIEW" />
